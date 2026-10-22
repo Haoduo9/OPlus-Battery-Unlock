@@ -1,7 +1,7 @@
 id=oplus_battery_unlock
 name=Realme GT6 / OPlus 电池放电截止电压与深放惩罚优化
-version=v1.1
-versionCode=110
+version=v1.2
+versionCode=120
 author=小六六 & 小小六
 description=面向真我GT6 (RMX3800) 及欧加机型：调整系统放电关机截止电压门限至 3100mV，重置并清零深放扣减惩罚计数。纯用户态脚本无损生效，禁用或卸载模块即恢复系统默认。
 minMagisk=20400
