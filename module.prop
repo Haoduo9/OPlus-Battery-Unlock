@@ -1,0 +1,7 @@
+id=oplus_battery_unlock
+name=Realme GT6 / OPlus 电池解容与低压释放
+version=v1.0
+versionCode=100
+author=小六六 & 小小六
+description=面向真我GT6 (RMX3800) 及欧加机型：解除3.3V高门限关机锁容 (释放至3.0V标准电芯截止电压)，清零深放扣减惩罚，释放被锁死的5%~8%真实可用电量。100%纯脚本无损，随时开/关还原。
+minMagisk=20400
